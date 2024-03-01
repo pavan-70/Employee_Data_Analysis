@@ -5,7 +5,7 @@
 The primary objective of this project was to analyze various aspects of employee data to identify patterns, trends, and correlations that could provide valuable insights into employee performance, engagement, retention, and overall organizational health.
 
 ## Project Details:
-**Thorough Analysis:** Conducted a comprehensive examination of HR data, analyzing various dimensions such as employee demographics, performance evaluations, salary records, tenure, and turnover rates. This analysis involved exploring the distribution of employees across departments, identifying underperforming individuals, understanding satisfaction levels among different demographic groups, and examining the impact of training programs on employee development and costs.
+ **Thorough Analysis:**  Conducted a comprehensive examination of HR data, analyzing various dimensions such as employee demographics, performance evaluations, salary records, tenure, and turnover rates. This analysis involved exploring the distribution of employees across departments, identifying underperforming individuals, understanding satisfaction levels among different demographic groups, and examining the impact of training programs on employee development and costs.
 
 **Target Alignment:** Ensured alignment with strategic HR objectives by closely scrutinizing factors affecting employee retention, satisfaction, and performance against predefined targets. This involved comparing actual performance against desired benchmarks, identifying areas of improvement, and implementing strategies to address gaps in employee engagement, training effectiveness, and performance management.
 
